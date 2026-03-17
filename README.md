@@ -42,8 +42,10 @@ by going to Simulation ⇒ Start
 13.	Save the file. ( It should be noted that Simulink do not allow to save files with spaces therefore usually is included in between two words.)
 14.	Analyze and record your inference.
 
-## Simulation
+## Simulation![WhatsApp Image 2026-03-17 at 11 02 35 AM](https://github.com/user-attachments/assets/4cc5a483-5e93-4409-81d8-5d0506ccac67)
 
-## Output
 
-## Result
+## Output![WhatsApp Image 2026-03-17 at 11 02 34 AM (2)](https://github.com/user-attachments/assets/46286202-9bd9-4591-9888-a0613e1d7946)
+
+
+## ResultThus three phase full wave rectifier designed,stimulated and analysed using MATLAB simulink
